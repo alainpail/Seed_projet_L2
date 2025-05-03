@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Mesh/seed02_rig.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Mesh/seed02_rig_PhysicsAsset.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Mesh/seed02_rig_Skeleton.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/seed02_rig_PhysicsAsset.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Materials/shd_props.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Materials/shd_seed.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Rigs/seed02_rig_PhysicsAsset.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Crouch_Idle.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Crouched_Walking.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Idle.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Jump.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Running.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Tpose.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/Animations/seed02_Walking.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/seed2_diffuse_1001.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/Characters/Seed02/SeedProps2_props_BaseColor_1001.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/ThirdPerson/Blueprints/BP_GM_Seed1.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/ThirdPerson/Blueprints/BP_GM_Seed02.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/ThirdPerson/Blueprints/BP_C_Seed.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/ThirdPerson/Blueprints/BP_C_Seed02.uasset",
+				"S:/PAILLLIER/Seed_projet_L2/unreal/seed02_Parcours/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
